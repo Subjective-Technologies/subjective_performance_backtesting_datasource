@@ -1,4 +1,5 @@
 {
+  "description": "Queries signal/backtesting collections and emits summary counts used to validate trading strategy performance.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "Pipelines",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Performance Backtesting",
-      "text": "Subjective datasource implementation for SubjectivePerformanceBacktestingDataSource.",
+      "text": "Queries signal/backtesting collections and emits summary counts used to validate trading strategy performance.",
       "image": {
         "src": "/subjective_performance_backtesting_datasource/icon.svg",
         "alt": "Performance Backtesting icon"
